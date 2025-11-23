@@ -2,5 +2,8 @@ Here is a new text file.
 
 Add new line for new branch 1.
 
+<<<<<<< HEAD
 This text belongs to MAIN branch.
+=======
 This another text belongs to New branch.
+>>>>>>> NewBranch1
